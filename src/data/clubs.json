@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Inter Miami",
+    "country": "USA",
+    "players": [1]
+  },
+  {
+    "id": 2,
+    "name": "Al Nassr",
+    "country": "Saudi Arabia",
+    "players": [2]
+  },
+  {
+    "id": 3,
+    "name": "Al Hilal",
+    "country": "Saudi Arabia",
+    "players": [3]
+  },
+  {
+    "id": 4,
+    "name": "Manchester City",
+    "country": "England",
+    "players": [4]
+  },
+  {
+    "id": 5,
+    "name": "Real Madrid",
+    "country": "Spain",
+    "players": [5]
+  },
+   {
+    "id": 6,
+    "name": "Barcelona",
+    "country": "Spain",
+    "players": [5]
+  },
+   {
+    "id": 7,
+    "name": "São Paulo FC",
+    "country": "Brazil",
+    "players": [10]
+  }
+]

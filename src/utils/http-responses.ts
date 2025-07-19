@@ -25,7 +25,7 @@ export const created = async (): Promise<HttpResponse> => {
     return {
         statusCode: 201,
         body: {
-            message: "Sucessfull"
+            message: "Player Created successfully"
         }
     }
 }
